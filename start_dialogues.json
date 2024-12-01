@@ -1,0 +1,20 @@
+{
+    "dialogue_1": {
+        "id": 1,
+        "text": "Hi, how are you, Markus?",
+        "options": {
+            "2": "Good, and you, Aida?",
+            "3": "I don't feel well, but I know why I feel like that..."
+        },
+        "dest_id": 0
+    },
+    "dialogue_2": {
+        "id": 2,
+        "text": "Good too, but I'm so hungry, my stomach is growling loudly now! I wanna eat!",
+        "options": {
+            "4": "Oh, you must be really hungry, don't worry, I will give you something to eat",
+            "5": "Oh, I'm sorry, I don't have something to eat now, you'll have to search something to eat in the forest, maybe you'll find something delicious there."
+        },
+        "dest_id": 0
+    }
+}
